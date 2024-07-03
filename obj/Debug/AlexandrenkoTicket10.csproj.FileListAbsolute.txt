@@ -5,3 +5,10 @@ C:\Users\315\Desktop\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.csproj.
 C:\Users\315\Desktop\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.csproj.CoreCompileInputs.cache
 C:\Users\315\Desktop\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.exe
 C:\Users\315\Desktop\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.pdb
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.csproj.AssemblyReference.cache
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.csproj.CoreCompileInputs.cache
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.exe
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\obj\Debug\AlexandrenkoTicket10.pdb
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\bin\Debug\AlexandrenkoTicket10.exe.config
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\bin\Debug\AlexandrenkoTicket10.exe
+C:\Users\315\Desktop\AlexandrenkoTicket10\AlexandrenkoTicket10\bin\Debug\AlexandrenkoTicket10.pdb
